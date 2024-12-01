@@ -1,0 +1,26 @@
+1; manuela;lopes;indaial;12131158920;manuelalopeszickuhr@gmail.com;manu;123;bruna;bruna@gmail.com;201;pedagogia;superior;True
+2; vinicius;sombrio;blumenau;47568388042;22044776057;vini;123;cluadia;claudia@gmail.com;['202','201'];['pedagogia',' ci�ncias da computa��o'];superior;True
+3; victor;cerutti;indaial;22044776057;victor@gmail.com;victor;3;alexandro;alexandro@gmail.com;201;pedagogia;superior;True
+4; clara;machado;blumenau;74790228088;clara@gmail.com;clara;123;rosi;rosi@gmail.com;201;pedagogia;superior;True
+5; sophia;volani;blumenau;96094511018;fifi@gmail.com;fifi;123;camila;camila@gmail.com;201;,pedagogia;superior;True
+
+6;luan;pereira;blumenau;12345678901;luan@gmail.com;luan123;1234;paula;paula@gmail.com;301;mecatronica;EM;True
+7;mariana;silva;blumenau;22334455667;mariana@gmail.com;mariana123;4321;andre;andre@gmail.com;302;informatica;EM;True
+8;gustavo;alves;blumenau;33445566778;gustavo@gmail.com;gustavo123;5678;fabiana;fabiana@gmail.com;303;mecatronica;EM;True
+9;larissa;rodrigues;blumenau;44556677889;larissa@gmail.com;larissa123;8765;rogerio;rogerio@gmail.com;304;eletromecanica;EM;True
+10;pedro;martins;blumenau;55667788990;pedro@gmail.com;pedro123;1357;raquel;raquel@gmail.com;305;informatica;EM;True
+11;ana;soares;blumenau;66778899011;ana@gmail.com;ana123;2468;jose;jose@gmail.com;306;eletromecanica;EM;True
+12;daniel;carvalho;blumenau;77889910022;daniel@gmail.com;daniel123;3690;luana;luana@gmail.com;307;mecatronica;EM;True
+13;maria;oliveira;blumenau;88990011223;maria@gmail.com;maria123;4810;alessandra;alessandra@gmail.com;308;informatica;EM;True
+14;felipe;souza;blumenau;10111223345;felipe@gmail.com;felipe123;5921;vitoria;vitoria@gmail.com;309;eletromecanica;EM;True
+15;julia;ferreira;blumenau;11223344556;julia@gmail.com;julia123;7531;lucas;lucas@gmail.com;310;mecatronica;EM;True
+16;gabriel;coutinho;blumenau;22334455667;gabriel@gmail.com;gabriel123;8642;luana;luana@gmail.com;311;informatica;EM;True
+17;beatriz;silveira;blumenau;33445566778;beatriz@gmail.com;beatriz123;9753;marcio;marcio@gmail.com;312;eletromecanica;EM;True
+18;diego;pires;blumenau;44556677889;diego@gmail.com;diego123;1086;cintia;cintia@gmail.com;313;mecatronica;EM;True
+19;raissa;medeiros;blumenau;55667788990;raissa@gmail.com;raissa123;1097;andre;andre@gmail.com;314;informatica;EM;True
+20;bruna;alves;blumenau;66778899011;bruna@gmail.com;bruna123;2210;eliane;eliane@gmail.com;315;eletromecanica;EM;True
+21;felipe;oliveira;blumenau;77889910022;felipeoliveira@gmail.com;felipeoliveira123;3122;beatriz;beatriz@gmail.com;316;mecatronica;EM;True
+22;luana;machado;blumenau;88990011223;luana@gmail.com;luana123;4233;carla;carla@gmail.com;317;informatica;EM;True
+23;gustavo;teixeira;blumenau;99001122334;gustavo@gmail.com;gustavo123;5344;patricia;patricia@gmail.com;318;eletromecanica;EM;True
+24;juliana;gomes;blumenau;10111223345;juliana@gmail.com;juliana123;6455;tatiane;tatiane@gmail.com;319;mecatronica;EM;True
+25;danilo;ramos;blumenau;11223344556;danilo@gmail.com;danilo123;7566;daniela;daniela@gmail.com;320;informatica;EM;True

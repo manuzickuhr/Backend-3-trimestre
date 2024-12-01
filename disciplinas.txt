@@ -1,0 +1,11 @@
+1;programação 1;superior;123;True
+2;matemática avançada;superior;124;True
+3;química básica;superior;125;True
+4;história da arte;superior;126;True
+5;fundamentos da física;superior;127;True
+
+6;matemática 1;EM;128;True
+7;física 1;EM;129;True
+8;química 1;EM;130;True
+9;introdução à informática;EM;131;True
+10;educação física;EM;132;True

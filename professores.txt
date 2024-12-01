@@ -1,0 +1,5 @@
+12345678901;claudia;sombrio;claudia@gmail.com;claudia;1234;doutora;True
+23456789012;joao;da_silva;joao@gmail.com;joao_silva;5678;mestrado;True
+34567890123;ana;alves;ana@educa.com;ana_alves;abcd1234;licenciatura;True
+45678901234;jose;araujo;jose@escola.com;jose_araujo;password123;bachelor;False
+56789012345;marcia;gomes;marcia.gomes@instituto.com;marcia123;senha2024;doutorado;True
